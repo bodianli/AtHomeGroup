@@ -1,0 +1,226 @@
+,Name,Address,ZipCode,Pickup_InStore,Pickup_Curbside,Local_Delivery
+0,Massachusetts-Dedham,300 Providence Hwy,02026,1.0,1.0,1.0
+1,Massachusetts-Seekonk,1110 Fall River Ave,02771,1.0,1.0,1.0
+2,Rhode Island-Warwick North,650 Bald Hill Rd,02886,1.0,1.0,1.0
+3,Connecticut-Manchester,1181 Tolland Turnpike,06042,1.0,1.0,1.0
+4,New York-Albany,161 Washington Ave Ext,12205,1.0,1.0,
+5,New York-Nanuet,5101 Fashion Dr,10954,1.0,1.0,1.0
+6,New York-Middletown,100 N Galleria Dr,10941,1.0,1.0,
+7,New Jersey-Wayne,"77 Willowbrook Blvd, Ste 81",07470,1.0,1.0,1.0
+8,New Jersey-Ocean Township,2341 NJ-66,07712,1.0,1.0,1.0
+9,New York-New Hartford,4645 Commercial Dr,13413,1.0,1.0,
+10,New Jersey-Brick,1930 N Jersey 88,08724,1.0,1.0,1.0
+11,Pennsylvania-Whitehall Township,2520 MacArthur Road,18052,1.0,1.0,
+12,Pennsylvania-Willow Grove,2620 Moreland Rd,19090,1.0,1.0,1.0
+13,New York-Syracuse,9090 Destiny USA Dr,13204,1.0,1.0,
+14,New Jersey-Cherry Hill,989 Church Rd,08002,1.0,1.0,1.0
+15,New Jersey-Turnersville,5700 Route 42 N,08012,1.0,1.0,1.0
+16,Pennsylvania-Lancaster,1890 Fruitville Pike,17601,1.0,1.0,1.0
+17,Pennsylvania-Harrisburg,5070 Jonestown Rd,17112,1.0,1.0,
+18,New York-Rochester,1100 Jefferson Rd,14623,1.0,1.0,
+19,Pennsylvania-York,855 Town Center Dr,17408,1.0,1.0,
+20,New York-Greece,3049 West Ridge Road,14626,1.0,1.0,
+21,Maryland-Glen Burnie,6716 Governor Ritchie Hwy,21061,1.0,1.0,1.0
+22,Maryland-Crofton,1647 Crofton Center,21114,1.0,1.0,1.0
+23,Maryland-Frederick,1811 Monocacy Blvd,21701,1.0,1.0,1.0
+24,Maryland-Gaithersburg,209 Kentlands Blvd,20878,1.0,1.0,1.0
+25,Virginia-Leesburg,19460 Compass Creek Pkwy,20175,,,
+26,Virginia-Chantilly,13910 Metrotech Dr,20151,1.0,1.0,1.0
+27,Virginia-Dale City,2851 Dale Blvd,22193,1.0,1.0,1.0
+28,Virginia-Manassas,8300 Sudley Rd,20109,1.0,1.0,1.0
+29,Virginia-Fredericksburg,3655 Plank Rd,22407,1.0,1.0,1.0
+30,Pennsylvania-Erie,2080 Interchange Rd #500,16565,1.0,1.0,
+31,Virginia-Hampton,1072 W Mercury Blvd,23666,1.0,1.0,1.0
+32,Virginia-Richmond,401 International Center Dr,23150,1.0,1.0,1.0
+33,Pennsylvania-Monroeville,120 Mall Plaza Blvd,15146,1.0,1.0,1.0
+34,Virginia-Chesapeake,1517 Sams Cir,23320,1.0,1.0,1.0
+35,Pennsylvania-Pittsburgh,3000 Mcintyre Square Dr.,15237,1.0,1.0,1.0
+36,Virginia-Chesterfield,11500 Midlothian Turnpike,23235,1.0,1.0,1.0
+37,Pennsylvania-Coraopolis,2000 Casteel Dr,15108,1.0,1.0,1.0
+38,Ohio-Niles,5555 Youngstown-Warren Rd,44446,1.0,1.0,1.0
+39,Ohio-Mentor,7980 Plaza Blvd,44060,1.0,1.0,1.0
+40,Ohio-North Canton,4932 Portage St NW,44720,1.0,1.0,1.0
+41,Ohio-Elyria,5223 Cobblestone Rd,44035,1.0,1.0,1.0
+42,North Carolina-Raleigh,4700 Green Rd - Corner of Capital & Millbrook,27604,1.0,1.0,1.0
+43,Michigan-Roseville,32123 Gratiot Ave.,48066,1.0,1.0,1.0
+44,Michigan-Utica,45160 Utica Park Blvd,48315,1.0,1.0,1.0
+45,North Carolina-Durham,4215 University Dr,27707,1.0,1.0,1.0
+46,Michigan-Troy,200 W 14 Mile Rd,48083,1.0,1.0,1.0
+47,Michigan-Bloomfield Hills,2101 S Telegraph Rd,48302,1.0,1.0,1.0
+48,Ohio-Columbus,6060 E Main St,43213,1.0,1.0,1.0
+49,Michigan-Wixom,10800 Assembly Park Dr,48393,1.0,1.0,1.0
+50,Ohio-Columbus-North,1160 Gemini Pl,43240,1.0,1.0,1.0
+51,North Carolina-Greensboro,6103 Landmark Center Blvd,27407,1.0,1.0,1.0
+52,Ypsilanti,3100 Washtenaw Ave,48197,1.0,1.0,1.0
+53,Ohio-Hilliard,3599 Park Mill Run Dr,43026,1.0,1.0,1.0
+54,Ohio-Toledo,2244 S Reynolds Rd,43614,1.0,1.0,
+55,Michigan-Saginaw,5417 Bay Rd,48604,1.0,1.0,
+56,Ohio-Huber Heights,8221 Troy Pike,45424,1.0,1.0,1.0
+57,Ohio-Beavercreek,4480 Indian Ripple Road,45440,1.0,1.0,1.0
+58,North Carolina-Concord,7965 Lyles Ln NW,28027,1.0,1.0,1.0
+59,North Carolina-Charlotte Mecklenburg,900 Metropolitan Avenue,28204,,,
+60,Ohio-Loveland,9570 Fields Ertel Rd,45140,1.0,1.0,1.0
+61,North Carolina-Charlotte,11415 Carolina Place Pkwy,28134,1.0,1.0,1.0
+62,Ohio-Springdale,11925 Commons Dr,45246,,,
+63,Ohio-Cincinnati,4825 Marburg Ave,45209,1.0,1.0,1.0
+64,Tennessee-Johnson City,3019 Peoples St,37604,1.0,1.0,
+65,Michigan-Kalamazoo,4620 Stadium Dr,49008,1.0,1.0,
+66,Kentucky-Florence,4874 Houston Rd,41042,1.0,1.0,1.0
+67,Michigan-Georgetown Township,334 Chicago Dr,49428,1.0,1.0,
+68,Kentucky-Lexington,1996 Pavilion Way,40509,1.0,1.0,
+69,Indiana-Noblesville,301 Noble Creek Dr,46060,1.0,1.0,1.0
+70,South Carolina-Greenville,35 Park Woodruff Dr,29607,1.0,1.0,1.0
+71,Indiana-Indianapolis NW,3015 W 86th St,46268,1.0,1.0,1.0
+72,Indiana-Greenwood,7667 Shelby St,46227,1.0,1.0,1.0
+73,Kentucky-Jeffersontown,11501 Bluegrass Pkwy,40299,1.0,1.0,1.0
+74,South Carolina-Charleston,6185 Rivers Ave,29406,1.0,1.0,1.0
+75,Indiana-Avon,216 Gable Crossing Dr,46123,1.0,1.0,1.0
+76,Indiana-Lafayette,3530 State Road 38,47905,1.0,1.0,
+77,Tennessee-Farragut,11501 Parkside Dr,37934,1.0,1.0,1.0
+78,Indiana-Merrillville,101 W Lincoln Hwy,46410,1.0,1.0,
+79,Indiana-Bloomington,3175 W 3rd St,47404,1.0,1.0,
+80,Kentucky-Elizabethtown,1811 North Dixie Hwy,42701,1.0,1.0,1.0
+81,Illinois-Crestwood,13180 S Cicero Avenue,60445,1.0,1.0,1.0
+82,Wisconsin-Greenfield,4601 S 27th St,53221,1.0,1.0,1.0
+83,Georgia-Augusta,1323 Augusta West Parkway,30909,1.0,1.0,1.0
+84,Wisconsin-Wauwatosa,3201 N Mayfair Rd,53222,1.0,1.0,1.0
+85,Illinois-Elmhurst,265 Illinois 83,60126,1.0,1.0,1.0
+86,Illinois-Schaumburg West,101 Barrington Rd,60194,1.0,1.0,1.0
+87,Illinois-Aurora,956 N Route 59,60504,1.0,1.0,1.0
+88,Illinois-Geneva,2100 South Randall Road,60134,1.0,1.0,1.0
+89,Illinois-Lake in the Hills,101 Randall Rd,60156,1.0,1.0,1.0
+90,Wisconsin-Grand Chute,3820 W Wisconsin Ave,54914,1.0,1.0,
+91,Georgia-Athens,2656 Atlanta Hwy,30606,1.0,1.0,1.0
+92,Georgia-Pooler,300 Tanger Outlet Blvd,31322,1.0,1.0,
+93,Georgia-Buford,1605 Buford Hwy,30518,1.0,1.0,1.0
+94,Georgia-Snellville,2420 Wisteria Dr SW,30078,1.0,1.0,1.0
+95,Tennessee-Chattanooga,482 McBrien Rd,37412,1.0,1.0,1.0
+96,Indiana-Evansville,101 N Green River Rd.,47715,1.0,1.0,
+97,Georgia-Norcross,1887 Willow Trail Pkwy NW,30093,1.0,1.0,1.0
+98,Tennessee-Mt. Juliet,535 Pleasant Grove Rd,37122,1.0,1.0,1.0
+99,Wisconsin-Madison East,2201 Zeier Rd,53704,1.0,1.0,
+100,Georgia-Kennesaw,2875 George Busbee Pkwy NW,30144,1.0,1.0,1.0
+101,Wisconsin-Madison West,7050 Watts Rd,53719,1.0,1.0,
+102,Georgia-Stockbridge,5000 Mt Zion Pkwy,30281,1.0,1.0,1.0
+103,Tennessee-Nashville West,3701 Annex Ave,37209,1.0,1.0,1.0
+104,Georgia-Douglasville,7400 Douglas Blvd,30135,1.0,1.0,1.0
+105,Tennessee-Franklin,209 S Royal Oaks Blvd,37064,1.0,1.0,1.0
+106,Tennessee-Clarksville,2780 Wilma Rudolph Blvd,37040,1.0,1.0,
+107,Georgia-Warner Robins,2063 Watson Blvd,31093,1.0,1.0,
+108,Georgia-Newnan,361 Newnan Crossing Bypass,30265,1.0,1.0,1.0
+109,Alabama-Huntsville,1401 Memorial Pkwy NW,35816,1.0,1.0,
+110,Georgia-Columbus,3131 Manchester Expy,31909,1.0,1.0,
+111,Illinois-O'Fallon,1287 Central Park Dr,62269,1.0,1.0,1.0
+112,Florida-Orange Park,1919 Wells Rd,32073,1.0,1.0,1.0
+113,Alabama-Trussville,5036 Pinnacle Square,35235,1.0,1.0,1.0
+114,Missouri-Fenton,665 Gravois Bluffs Blvd,63026,1.0,1.0,1.0
+115,Missouri-Ballwin,13907 Manchester Road,63011,1.0,1.0,1.0
+116,Missouri-O'Fallon,20 O'Fallon Square,63366,1.0,1.0,1.0
+117,Alabama-Hoover,5501 Grove Blvd,35226,1.0,1.0,1.0
+118,Alabama-Montgomery,1500 Eastdale Mall,36117,1.0,1.0,
+119,Iowa-Waterloo,2060 Crossroads Blvd #2001,50702,1.0,1.0,
+120,Florida-Lake Mary,3750 Flagg Ln,32746,1.0,1.0,1.0
+121,Florida-Orlando,11100 E Colonial Dr,32817,1.0,1.0,1.0
+122,Minnesota-Blaine,4405 NE Pheasant Ridge Dr,55449,1.0,1.0,1.0
+123,Minnesota-Burnsville,14230 Burnhaven Dr,55306,1.0,1.0,1.0
+124,Tennessee-Memphis,5280 Summer Ave,38122,1.0,1.0,1.0
+125,Tennessee-Memphis South,7697 Winchester Rd,38125,1.0,1.0,1.0
+126,Florida-Clermont,1002 E State Rd 50,34711,1.0,1.0,1.0
+127,Florida-Kissimmee,3003 W Vine St,34741,1.0,1.0,1.0
+128,Iowa-Clive,10331 University Ave,50325,1.0,1.0,
+129,Florida-Lutz,2160 Grand Cypress Dr,33559,1.0,1.0,1.0
+130,Florida-Clearwater,25813 US Hwy 19 N,33763,1.0,1.0,1.0
+131,Florida-Palm Beach Gardens,100 Gander Way,33403,1.0,1.0,1.0
+132,Florida-Ellenton,6126 US-301,34222,1.0,1.0,1.0
+133,Missouri-Springfield,3700 S Campbell Ave,65807,1.0,1.0,
+134,Missouri-Lee's Summit,601 N State Highway 291,64086,1.0,1.0,1.0
+135,Missouri-Kansas City,600 NE Barry Rd,64155,1.0,1.0,1.0
+136,Alabama-Mobile,312 Schillinger Rd,36608,1.0,1.0,1.0
+137,Mississippi-Jackson,6360 Ridgewood Court Dr,39211,1.0,1.0,
+138,Kansas-Olathe,2000 E Santa Fe St,66062,1.0,1.0,1.0
+139,Arkansas-Little Rock,11801 Chenal Pkwy,72211,1.0,1.0,
+140,Mississippi-Hattiesburg,1000 Turtle Creek Dr,39402,1.0,1.0,1.0
+141,Iowa-Council Bluffs,3271 Marketplace Dr.,51501,1.0,1.0,1.0
+142,Nebraska-Omaha,12990 W Center Rd,68144,1.0,1.0,1.0
+143,Mississippi-Gulfport,15065 Creosote Rd,39503,1.0,1.0,
+144,South Dakota-Sioux Falls,1601 W 41st St,57105,1.0,1.0,
+145,Arkansas-Rogers,3551 S 27th St,72758,1.0,1.0,
+146,Nebraska-Lincoln,6845 S 27th St,68512,1.0,1.0,
+147,Louisiana-Slidell,150 North Shore Blvd,70460,1.0,1.0,1.0
+148,Louisiana-Kenner,1000 W Esplanade Blvd,70065,1.0,1.0,1.0
+149,Oklahoma-Tulsa,11015 E 51st St,74146,1.0,1.0,1.0
+150,Louisiana-Shreveport,1376 East 70th St,71105,1.0,1.0,
+151,Kansas-Wichita,301 S Towne East Mall Dr,67207,1.0,1.0,
+152,Louisiana-Lafayette,4210 Ambassador Caffery Pkwy,70508,1.0,1.0,
+153,Oklahoma-Oklahoma City North,2201 NW 138 St,73134,,,
+154,Texas-Tyler,3900 Troup Hwy,75703,1.0,1.0,
+155,Oklahoma-Moore,621 SW 19th St,73160,1.0,1.0,1.0
+156,Oklahoma-Oklahoma City,701 S MacArthur Blvd,73128,1.0,1.0,1.0
+157,Texas-Garland,3002 Firewheel Pkwy,75040,1.0,1.0,1.0
+158,Texas-Plano-East,2704 Central Expy,75074,1.0,1.0,1.0
+159,Texas-Plano West,5540 State Highway 121,75024,1.0,1.0,1.0
+160,Texas-Mesquite,2727 Towne Centre Dr,75150,1.0,1.0,1.0
+161,Texas-Farmers Branch,13307 Midway Rd,75244,1.0,1.0,1.0
+162,Texas-Lewisville,2512 S Stemmons Fwy,75067,1.0,1.0,1.0
+163,Texas-Grand Prairie,2650 W Interstate 20,75052,1.0,1.0,1.0
+164,Texas-N. Richland Hills,8651 Airport Fwy,76180,1.0,1.0,1.0
+165,Texas-Alliance,2201 Porter Creek Dr,76177,1.0,1.0,1.0
+166,Texas-Mansfield,602 U.S. Hwy 287,76063,1.0,1.0,1.0
+167,Texas-Fort Worth,5608 SW Loop 820,76132,1.0,1.0,1.0
+168,Texas-Conroe,16778 I-45 South,77384,1.0,1.0,1.0
+169,Texas-Humble,9450 FM 1960 Bypass Rd West,77338,1.0,1.0,1.0
+170,Texas-Wichita Falls,3111 Midwestern Pkwy #200,76308,1.0,1.0,
+171,Texas-Webster,20780 Gulf Fwy,77598,1.0,1.0,1.0
+172,Texas-Willowbrook,12605 N Gessner Dr,77064,1.0,1.0,1.0
+173,Texas-Cypress,24340 Northwest Freeway,77429,1.0,1.0,1.0
+174,South Dakota-Rapid City,2200 N Maple Ave,57701,1.0,1.0,
+175,Texas-Pearland,3000 Kirby Dr,77584,1.0,1.0,1.0
+176,Texas-College Station,2301 Earl Rudder Fwy,77845,1.0,1.0,
+177,Texas-Katy,19420 Katy Fwy.,77094,1.0,1.0,1.0
+178,Texas-Sugar Land,16960 Southwest Fwy,77479,1.0,1.0,1.0
+179,Texas-Richmond,4833 Waterview Meadow Dr,77406,1.0,1.0,1.0
+180,Texas-Pflugerville,19000 Limestone Commercial Dr,78660,1.0,1.0,1.0
+181,Texas-Cedar Park,4801 183A Toll Rd,78613,1.0,1.0,1.0
+182,Texas-South Austin,5151 US Hwy 290,78735,1.0,1.0,1.0
+183,Texas-New Braunfels,642 S Walnut Ave,78130,1.0,1.0,1.0
+184,Texas-Live Oak,7613 N Loop 1604 E,78233,1.0,1.0,1.0
+185,Colorado-Johnstown,4900 Thompson Pkwy,80534,1.0,1.0,
+186,Texas-San Antonio,8421 US Hwy 281,78216,1.0,1.0,1.0
+187,Colorado-Longmont,955 S Hover St,80503,1.0,1.0,1.0
+188,Colorado-Broomfield,1660 W Midway Blvd,80020,1.0,1.0,1.0
+189,Texas-San Antonio NW,6840 NW Loop 410,78238,1.0,1.0,1.0
+190,Colorado-Colorado Springs,335 N Academy Blvd,80909,1.0,1.0,1.0
+191,Texas-Lubbock,4304 W Loop 289,79407,1.0,1.0,
+192,Texas-Corpus Christi,4949 Greenwood Dr,78416,1.0,1.0,
+193,Texas-Odessa,4101 E 42nd St,79762,1.0,1.0,
+194,Montana-Billings,905 S 24th St W,59102,1.0,1.0,
+195,Texas-Laredo,5000 San Dario Ave,78041,1.0,1.0,
+196,Texas-Pharr,1600 W Kelly Ave,78577,1.0,1.0,
+197,New Mexico-Albuquerque,11150 Lomas Blvd,87112,1.0,1.0,
+198,Texas-El Paso,1120 McRae Blvd,79925,1.0,1.0,1.0
+199,Texas-El Paso West,655 Sunland Park Dr,79912,1.0,1.0,1.0
+200,Utah-West Bountiful,190 500 W,84010,1.0,1.0,1.0
+201,Utah-Riverdale,1134 W Riverdale Rd,84405,1.0,1.0,1.0
+202,Utah-Provo,1165 S University Ave,84601,1.0,1.0,1.0
+203,Utah-Sandy,203 W 9000 S,84070,1.0,1.0,1.0
+204,Utah-West Jordan,7453 Plaza Center Dr,84084,1.0,1.0,1.0
+205,Idaho-Coeur D' Alene,201 W Neider Ave,83815,1.0,1.0,
+206,Washington-Spokane,7619 N Division St,99208,1.0,1.0,
+207,Arizona-Tucson,5255 E Broadway Blvd,85711,1.0,1.0,1.0
+208,Arizona-Prescott,1801 East State Route 69,86301,1.0,1.0,
+209,Arizona-Mesa,1944 S Greenfield Rd,85206,1.0,1.0,1.0
+210,Arizona-Scottsdale,15255 N Northsight Blvd,85260,1.0,1.0,1.0
+211,Arizona-Gilbert,1891 Williams Field Rd,85295,1.0,1.0,1.0
+212,Arizona-Phoenix,12025 N 32nd St,85028,1.0,1.0,1.0
+213,Arizona-Tempe South,1050 W Elliot Rd,85284,1.0,1.0,1.0
+214,Arizona-Peoria,10140 N 91st Ave,85345,1.0,1.0,1.0
+215,Washington-Kennewick,867 N Columbia Center Blvd,99336,1.0,1.0,
+216,Nevada-Henderson,10405 S Eastern Ave,89052,1.0,1.0,1.0
+217,Washington-Union Gap,2530 Rudkin Rd,98903,1.0,1.0,
+218,Washington-Bellingham,1001 E Sunset Dr,98226,1.0,1.0,
+219,Washington-Puyallup,301 37th Ave SE,98374,1.0,1.0,1.0
+220,California-Riverside,2663 Canyon Springs Pkwy,92507,1.0,1.0,
+221,California-San Diego,12080 Carmel Mountain Rd,92128,1.0,1.0,
+222,California-Foothill Ranch,26532 Towne Centre Dr Suites A & B,92610,1.0,1.0,
+223,California-Clovis,1075 Shaw Ave,93612,1.0,1.0,
+224,California-San Jose,750 Newhall Dr,95110,,,
