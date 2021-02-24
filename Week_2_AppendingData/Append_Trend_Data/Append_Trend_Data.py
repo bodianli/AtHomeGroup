@@ -24,10 +24,11 @@ Trend_data_with_zip = pd.merge(Zip_Convert, Trend_data,
 Trend_data_with_zip.to_csv("Trend_data_with_zip.csv", index=False)
 
 
-df = pd.merge(Data_All,Trend_data_with_zip,how="left",
+AtHomeGroup_Demographic = pd.merge(Data_All,Trend_data_with_zip,how="left",
               left_on="ZipCode",
               right_on="ZIP")
-df.to_csv("df.csv", index=False)
+
+AtHomeGroup_Demographic.to_csv("AtHomeGroup_Demographic.csv", index=False)
 
 # data_all_trend = pd.merge(Data_All, Trend_data_with_zip, how="left", left_on="ZipCode", right_on="ZIP")
 # data_all_trend.to_csv("data_all_trend.csv", index=False)
