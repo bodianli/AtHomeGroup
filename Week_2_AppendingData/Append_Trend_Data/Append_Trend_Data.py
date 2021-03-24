@@ -1,15 +1,17 @@
 # https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/
 # https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/nst-est2019-alldata.pdf
-# The FIPS_CODE is composite by "state"+"region" ,
-# 02:Alaska
-# 013:Aleutians East Borough
+
+# The FIPS_CODE is composite by "state"+"region", i give some example below:
+# 02: Alaska
+# 013: Aleutians East Borough
 # FIPS_CODE: 02013
+
 import pandas as pd
 
 Data_All = pd.read_csv(r"C:\Users\Bodian\Desktop\AtHomeGroup\Week_2_AppendingData\data_all.csv",
                        encoding="UTF-8")
 
-Zip_Convert = pd.read_csv(r"C:\Users\Bodian\Desktop\AtHomeGroup\Week_2_AppendingData\ZIP-COUNTY-FIPS_2010-03.csv",
+Zip_Convert = pd.read_csv(r"C:\Users\Bodian\Desktop\AtHomeGroup\Week_2_AppendingData\Datasets\ZIP-COUNTY-FIPS_2010-03.csv",
                           encoding="UTF-8",
                           usecols=["ZIP", "COUNTYNAME"]
                           )
