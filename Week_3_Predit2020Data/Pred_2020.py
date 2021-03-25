@@ -7,6 +7,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 data = pd.read_csv("eda_2.csv", encoding="UTF-8")
 
@@ -80,7 +81,6 @@ print(data.loc[0, POPESTIMATE])
 print(exponential_smoothing((data.loc[0, POPESTIMATE]), 0.5))
 print(double_exponential_smoothing((data.loc[0, POPESTIMATE]), 0.5, 0.5))
 
-
 # 2020 Feature for Simple_exponential_smoothing
 data['NPOPCHG2020'] = data.loc[:, NPOPCHG].apply(exponential_smoothing, args=(0.5,), axis=1)
 data['BIRTHS2020'] = data.loc[:, BIRTHS].apply(exponential_smoothing, args=(0.5,), axis=1)
@@ -92,23 +92,18 @@ data['RBIRTH2020'] = data.loc[:, RBIRTH].apply(exponential_smoothing, args=(0.5,
 data['RDEATH2020'] = data.loc[:, RDEATH].apply(exponential_smoothing, args=(0.5,), axis=1)
 
 # 2020 Feature for Double_exponential_smoothing
-data['POPESTIMATE2020'] = data.loc[:, POPESTIMATE].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['INTERNATIONALMIG2020'] = data.loc[:, INTERNATIONALMIG].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['DOMESTICMIG2020'] = data.loc[:, DOMESTICMIG].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['GQESTIMATES2020'] = data.loc[:, GQESTIMATES].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['RNATURALINC2020'] = data.loc[:, RNATURALINC].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['RINTERNATIONALMIG2020'] = data.loc[:, RINTERNATIONALMIG].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['RDOMESTICMIG2020'] = data.loc[:, RDOMESTICMIG].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
-data['RNETMIG2020'] = data.loc[:, RNETMIG].apply(double_exponential_smoothing, args=(0.5,0.5,), axis=1)
+data['POPESTIMATE2020'] = data.loc[:, POPESTIMATE].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
+data['INTERNATIONALMIG2020'] = data.loc[:, INTERNATIONALMIG].apply(double_exponential_smoothing, args=(0.5, 0.5,),
+                                                                   axis=1)
+data['DOMESTICMIG2020'] = data.loc[:, DOMESTICMIG].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
+data['GQESTIMATES2020'] = data.loc[:, GQESTIMATES].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
+data['RNATURALINC2020'] = data.loc[:, RNATURALINC].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
+data['RINTERNATIONALMIG2020'] = data.loc[:, RINTERNATIONALMIG].apply(double_exponential_smoothing, args=(0.5, 0.5,),
+                                                                     axis=1)
+data['RDOMESTICMIG2020'] = data.loc[:, RDOMESTICMIG].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
+data['RNETMIG2020'] = data.loc[:, RNETMIG].apply(double_exponential_smoothing, args=(0.5, 0.5,), axis=1)
 
 
-data.to_csv("Simu_2010_2020_dataset.csv")
-
-
-
-
-
-# print(data['POPESTIMATE2020'].head())
-
-# print(data['POPESTIMATE2020'].head())
-# print(data['ESTIMATESBASE2020'].head())
+#
+#
+# data.to_csv("Simu_2010_2020_dataset.csv")
